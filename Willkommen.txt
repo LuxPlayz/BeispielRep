@@ -1,3 +1,7 @@
 Dies ist eine Beispiel-Textdatei. Bitte bearbeiten.
+<<<<<<< Updated upstream
 
 Eine Änderung von Herrn Menne.
+=======
+Chris
+>>>>>>> Stashed changes
